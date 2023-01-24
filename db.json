@@ -1,0 +1,24 @@
+{
+    "frameworks": [
+        {
+          "title": "Angular",
+          "imgUrl": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mw16_8yk--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/shcwa40hgffwns0d8jxy.png"
+        },
+        {
+          "title": "React",
+          "imgUrl": "https://reactjs.org/logo-og.png"
+        },
+        {
+          "title": "Vue",
+          "imgUrl": "https://avatars.githubusercontent.com/u/6128107?s=280&v=4"
+        },
+        {
+          "title": "Svelte",
+          "imgUrl": "https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4_400x400.png"
+        },
+        {
+          "title": "Remix",
+          "imgUrl": "https://remix.run/img/og.1.jpg"
+        }
+    ]
+}
